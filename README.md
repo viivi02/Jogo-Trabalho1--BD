@@ -8,6 +8,7 @@ O game futuramente terá mais fases sendo a primeira sem inimigos ou obstaculos 
 Todos os códigos e imagens utilizados no jogo se encontram dentro da pasta "Jogo" e nos arquivos ".php" abaixo do README.
 
 # Vídeo com gameplay do jogo:
+![Gameplay ‐ Feito com o Clipchamp](https://github.com/viivi02/Jogo-Trabalho1--BD/assets/130519362/71210a59-09f0-449a-85a4-11b64115a3ae)
 
 
 ## Segue abaixo link para jogar:
